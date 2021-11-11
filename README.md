@@ -1,6 +1,6 @@
 # Parkinson-s-Disesase-Detection
 Here I have used four models to train the dataset.
-* K Nearest Neighbours
+* K Nearest Neighbors
 * Logistic Regression
 * Random Forest Classifier
 * LinearSVM
